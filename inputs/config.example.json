@@ -1,0 +1,33 @@
+{
+    "api": {
+        "key": "myawesomekey",
+        "token": "thatincredibbbletoken"
+    },
+    "board": "6201357aba30d06f5ea6bed1",
+    "targetList": "siodufhjsidufhiuhie444",
+    "users": {
+        "user1": "645446546546546522",
+        "user2": "16546546422111aaze"
+    },
+    "labels": [
+        {
+            "id": "32165465vfrzerze6r541e6r5",
+            "parent": "api",
+            "searchOnlyInCategory": true,
+            "keywords": [
+                "NestJS"
+            ]
+        },
+        {
+            "id": "32165465ezrzerze6r541e6r5",
+            "keywords": [
+                "front",
+                "frontend",
+                "flutter"
+            ]
+        }
+    ],
+    "skip": [
+        "Gestion de Projet"
+    ]
+}

@@ -1,0 +1,8 @@
+Task_Summary_Name;Name;Duration;Resource_Names
+;CI/CD;0 d;
+;Frontend (Flutter);0,21 d;
+Frontend (Flutter);Refacto du code;1,5 h;user1
+Frontend (Flutter);Ajout d'un logger;1 h;user1
+;API (NestJS & TypeScript);0,43 d;
+API (NestJS & TypeScript);Améliorer les tests unitaires et fonctionnels;1,5 h;user2
+API (NestJS & TypeScript);Marges pour les imprévus et adapter le code aux nouvelles données;1,5 h;user2
