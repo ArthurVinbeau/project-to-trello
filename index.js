@@ -110,7 +110,7 @@ if (process.argv.length > 2 && process.argv.find(e => e === '--setup')) {
                     "idLabels": labels.join(',')
                 });
 
-                const tpm = { name: record[1], labels, users };
+                const tmp = { name: record[1], labels, users };
 
                 promises.push(fetch(`${baseRoute}/cards`, { method: "POST", body: p }).then(async response => {
                     if (response.status != 200) {
